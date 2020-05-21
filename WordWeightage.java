@@ -1,6 +1,4 @@
-package com.vids.may19;
-
-import java.util.stream.IntStream;
+package com.vids.may21;
 
 public class WordWeightage {
 
